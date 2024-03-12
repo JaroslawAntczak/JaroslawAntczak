@@ -25,8 +25,8 @@ I am a computer science student and I want to become an experienced developer. A
 
 
 #
-<details>
-  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+
+<details><summary><h3>👨‍💻 My Coding Journey</h3></summary>
 I started my adventure with programming in a technical school, exactly in the second year, then I started learning C ++. At first I didn't feel it was something for me and I kind of gave up the idea of becoming a programmer. The next year I started learning HTML, CSS, JS, PHP and MySql because these languages were necessary to pass the exam. This was the moment when I really started to delve into the world of coding. So much so that I passed the exam with 100% and I taught many of my friends and each of them passed. However, that wasn't the direction I wanted to go, I always wanted to make apps, not websites. I started learning C#, finished the course, then started another course, this time learning Angular. However, I quickly gave up Angular because I worked as a programming teacher and there I focused more on C#. Shortly after that, I got my first job in IT, maybe as a programmer, but the knowledge and approach of a programmer is useful in my everyday tasks.
 </details>
 
